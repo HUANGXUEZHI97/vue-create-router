@@ -1,10 +1,10 @@
 {
   "name": "vue-create-router",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "bin": {
-    "run": "./bin/run.js"
+    "vcr": "./bin/vcr.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
